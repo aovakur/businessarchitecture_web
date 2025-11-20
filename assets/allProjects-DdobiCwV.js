@@ -1,0 +1,1 @@
+import{j as t,P as a}from"./index-CrlFWwJi.js";const n=({myProjects:i})=>t.jsx("div",{className:"all-projects-container",children:i&&i.map((l,s)=>t.jsx("div",{className:"all-projects-project",children:t.jsx(a,{logo:l.logo,title:l.title,description:l.description,linkText:l.linktext,link:l.link,tag:l.tag})},s))});export{n as default};

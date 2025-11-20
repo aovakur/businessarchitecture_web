@@ -1,0 +1,1 @@
+const a=[{name:"МИФИ",value:"Информатика и вычислительная техника",year:"2018-2020",src:"https://mephi.ru/content/public/uploads/files/official/press/logo-mini-without.png",alt:"mephi"},{name:"МАИ",value:"Информатика и вычислительная техника",year:"2014-2018",src:"https://mai.ru/press/brand/download/Default/RU/Default.svg",alt:"mai"}];export{a as default};
