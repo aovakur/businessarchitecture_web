@@ -1,1 +1,0 @@
-const a=[{name:"Газпромбанк",value:"Ведущий инженер разработки",year:"2020-2025",src:"https://www.ph4.ru/DL/LOGO_ICON/g/gazprom_bank_.gif",alt:"gpb"},{name:"Росатом",value:"Старший специалист",year:"2018-2020",src:"https://www.ph4.ru/DL/LOGO_ICON/r/rosatom.gif",alt:"rosatom"}];export{a as default};
